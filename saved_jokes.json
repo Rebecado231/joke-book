@@ -1,0 +1,36 @@
+[
+	{
+		"user": "Becki",
+		"jokes": [
+			{
+				"type": "general",
+				"setup": "Did you hear the story about the cheese that saved the world?",
+				"punchline": "It was legend dairy.",
+				"id": 65
+			},
+			{
+				"type": "programming",
+				"setup": "Where did the API go to eat?",
+				"punchline": "To the RESTaurant.",
+				"id": 390
+			},
+			{
+				"type": "programming",
+				"setup": "3 SQL statements walk into a NoSQL bar. Soon, they walk out",
+				"punchline": "They couldn't find a table.",
+				"id": 369
+			}
+		]
+	},
+	{
+		"user": "Alejandro",
+		"jokes": [
+			{
+				"type": "general",
+				"setup": "Why do bananas have to put on sunscreen before they go to the beach?",
+				"punchline": "Because they might peel!",
+				"id": 340
+			}
+		]
+	}
+]
